@@ -6,3 +6,9 @@
 
 # URL
 [![Ver Presentacion](https://img.shields.io/badge/Ver%20Presentacion-Online-green)](https://conceptospoo1.netlify.app/)
+
+# Tecnologías Usadas
+-Vite
+-Visual Studio Code
+-Netlify
+-Claude
