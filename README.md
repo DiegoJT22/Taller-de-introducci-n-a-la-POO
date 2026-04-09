@@ -4,4 +4,4 @@ Guerrero Juan Diego
 Ramírez José Pablo
 Torres Diego Javier
 
-[![Ver Presentación](https://img.shields.io/badge/Ver%20Demo-Online-green)](https://conceptospoo1.netlify.app/)
+[![Ver Presentacion](https://img.shields.io/badge/Ver%20Presentacion-Online-green)](https://conceptospoo1.netlify.app/)
