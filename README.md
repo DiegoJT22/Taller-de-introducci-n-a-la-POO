@@ -12,7 +12,7 @@
 
 ---
 
-## ⚙️ Tecnologías Usadas
+##  Tecnologías Usadas
 - Vite  
 - Visual Studio Code  
 - Netlify  
